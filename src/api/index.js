@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 //url pointing to backend route
-const API = axios.create({baseURL: 'http://localhost:5000'})
+const API = axios.create({baseURL: 'https://snapshot-project.herokuapp.com/'})
 
 //happens before all the requests below
 //middleware can't work w/o this
