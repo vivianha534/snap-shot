@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/snap-shot/static/css/main.136210a1.chunk.css",
+    "main.js": "/snap-shot/static/js/main.3878029c.chunk.js",
+    "main.js.map": "/snap-shot/static/js/main.3878029c.chunk.js.map",
+    "runtime-main.js": "/snap-shot/static/js/runtime-main.36bfb1fe.js",
+    "runtime-main.js.map": "/snap-shot/static/js/runtime-main.36bfb1fe.js.map",
+    "static/js/2.4970a8e0.chunk.js": "/snap-shot/static/js/2.4970a8e0.chunk.js",
+    "static/js/2.4970a8e0.chunk.js.map": "/snap-shot/static/js/2.4970a8e0.chunk.js.map",
+    "static/js/3.f76a00e4.chunk.js": "/snap-shot/static/js/3.f76a00e4.chunk.js",
+    "static/js/3.f76a00e4.chunk.js.map": "/snap-shot/static/js/3.f76a00e4.chunk.js.map",
+    "index.html": "/snap-shot/index.html",
+    "static/css/main.136210a1.chunk.css.map": "/snap-shot/static/css/main.136210a1.chunk.css.map",
+    "static/js/2.4970a8e0.chunk.js.LICENSE.txt": "/snap-shot/static/js/2.4970a8e0.chunk.js.LICENSE.txt",
+    "static/media/Logo.caca11a9.svg": "/snap-shot/static/media/Logo.caca11a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36bfb1fe.js",
+    "static/js/2.4970a8e0.chunk.js",
+    "static/css/main.136210a1.chunk.css",
+    "static/js/main.3878029c.chunk.js"
+  ]
+}
